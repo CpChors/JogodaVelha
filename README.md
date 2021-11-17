@@ -1,11 +1,10 @@
 # JogodaVelha
 
-
-
-alunos do grupo: João Marcos Nogueira de Jesus
-Arthur Cabral
-gabriel moreira mourão
-Eduardo Teixeira Rocato
+alunos do grupo: 
+João Marcos Nogueira de Jesus 
+Arthur Cabral 
+gabriel moreira mourão 
+Eduardo Teixeira Rocato 
 
 
 App-jogo de jogo da velha com cadastro que guarda o score dos jogadores e tem acessibilidade para cegos(som).	
