@@ -9,7 +9,6 @@ Eduardo Teixeira Rocato
 
 App-jogo de jogo da velha com cadastro que guarda o score dos jogadores e tem acessibilidade para cegos(som).	
 tipos de usuários:
-dev: consegue alterar o app;
 adm: tem acesso aos dados dos jogadores e ao relatório gerais;
 cliente: consegue criar conta e jogar apenas;
 requisitos funcionais:
