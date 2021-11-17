@@ -6,8 +6,13 @@ gabriel moreira mourão
 Eduardo Teixeira Rocato
 
 
--> descrever a visão geral do software,
--> papéis, quais são os usuários e o que cada usuário pode fazer,
--> requisitos funcionais, como quais os usuário que o app permite, o que cada usuário pode fazer, quais as entradas necessárias, qual o processamento que o app realiza e quais os relatórios e saídas do seu app.
-
-Um dos alunos do grupo deverá apresentar os ítens acima na aula de hj.
+-> App-jogo de jogo da velha com cadastro que guarda o score dos jogadores e tem acessibilidade para cegos(som).
+-> tipos de usuários:
+dev: consegue alterar o app;
+adm: tem acesso aos dados dos jogadores e ao relatório gerais;
+cliente: consegue criar conta e jogar apenas;
+-> requisitos funcionais:
+Nome, Id, e-mail e numero de telefone;
+geração de relatório de jogos(vitórias/derrotas/empates);
+geração de relatório gerais(bugs, quantidade de players, etc);
+ 
